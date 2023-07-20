@@ -3,6 +3,7 @@
 Here i create a Sewing Great look in Outfit store web apps named Sewing that helps the customer to find good services in cheap rates and genuine product.
 
 My website link: https://kind-rock-0f244c810.3.azurestaticapps.net
+
 Future Ready talent intership project youtube video link: https://youtu.be/6kPhffv26vs 
 
 ## HOME PAGE

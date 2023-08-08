@@ -4,7 +4,7 @@ This is my FRT Internship project....
 
 azure link:https://frtprojectstorage.z19.web.core.windows.net/
 
-Future Ready talent intership project youtube video link: 
+Future Ready talent intership project youtube video link:https://youtu.be/YNS34GeMO3Y
 
 # Project Statement:
 

@@ -4,13 +4,15 @@ This is my FRT Internship project....
 
 azure link:https://kind-rock-0f244c810.3.azurestaticapps.net
 
+Future Ready talent intership project youtube video link: https://youtu.be/6kPhffv26vs 
+
 # Project Statement:
 
-In a real estate environment, it can be easy to overlook the significance of a project manager’s role: to keep the project moving on schedule and under budget. In the past, some project managers had to justify their presence on a project site. But today, project managers’ pay structure — and the incentives for projects wrapping up as planned — indicates that their value has proven itself over time. 
+The objective of this project is to explore and develop innovative sewing techniques that push the boundaries of traditional sewing practices, while simultaneously creating unique and aesthetically appealing designs. This project aims to blend traditional craftsmanship with modern creativity, resulting in a collection of garments or textile art pieces that showcase the versatility of sewing as a form of artistic expression.
  
 # Project Description:
 
-Real estate is considered real property that includes land and anything permanently attached to it or built on it, whether natural or man-made. There are five main categories of real estate which include residential, commercial, industrial, raw land, and special use. Investing in real estate includes purchasing a home, rental property, or land. Indirect investment in real estate can be made via REITs or through pooled real estate investment.
+The Sewing Creations Workshop is an engaging and hands-on project that aims to introduce participants to the art of sewing, fostering creativity, skill development, and a deeper appreciation for textiles. Whether you're a beginner eager to learn the basics or an experienced enthusiast seeking to expand your repertoire, this project provides a platform for exploration, learning, and the creation of functional and decorative items through sewing.
 
 # Azure Technologies used :
 
@@ -58,22 +60,7 @@ Vs code
 
 
 
-
-
-
-
-
-
-
-
-# FutureReadyTalentProject by Deepak Kumar,Sumit Kumar and Vijay Kumar Chaurasiya.
-
-Here i create a Sewing Great look in Outfit store web apps named Sewing that helps the customer to find good services in cheap rates and genuine product.
-
-My website link: https://kind-rock-0f244c810.3.azurestaticapps.net
-
-Future Ready talent intership project youtube video link: https://youtu.be/6kPhffv26vs 
-
+# SOME SCREENSHOTS 
 ## HOME PAGE
 ![Screenshot (40)](https://github.com/Deepak6203/FutureReadyTalentProject/assets/114820862/54ec69ec-fd92-4f50-8bf3-2701b4d9ba4a)
 

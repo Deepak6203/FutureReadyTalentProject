@@ -8,11 +8,15 @@ Future Ready talent intership project youtube video link:
 
 # Project Statement:
 
-The objective of this project is to explore and develop innovative sewing techniques that push the boundaries of traditional sewing practices, while simultaneously creating unique and aesthetically appealing designs. This project aims to blend traditional craftsmanship with modern creativity, resulting in a collection of garments or textile art pieces that showcase the versatility of sewing as a form of artistic expression.
+Develop an online platform that offers a wide selection of sewing supplies and equipment, catering to sewing enthusiasts of all skill levels, providing a convenient and accessible shopping experience.
  
 # Project Description:
 
-The Sewing Creations Workshop is an engaging and hands-on project that aims to introduce participants to the art of sewing, fostering creativity, skill development, and a deeper appreciation for textiles. Whether you're a beginner eager to learn the basics or an experienced enthusiast seeking to expand your repertoire, this project provides a platform for exploration, learning, and the creation of functional and decorative items through sewing.
+The Sewing Store Website is an innovative and user-friendly online platform that caters to sewing enthusiasts of all levels, providing a comprehensive and convenient shopping experience. The project aims to create a one-stop destination for everything related to sewing, offering a vast range of high-quality sewing machines, fabrics, accessories, and tools.
+
+And in this wesite we use Html,Css,JavaScript and bootstrap by using bootstrap to make a responsive website and in the website funlly static website in this website we have not use any backend or other framwork like django,flask or any others.
+
+With a mobile-responsive design, the website will cater to customers on various devices, making it accessible anytime, anywhere. Overall, this project aims to revolutionize the sewing industry by providing a modern and convenient digital platform that brings sewing enthusiasts together and offers them the best products and resources available.
 
 # Azure Technologies used :
 
@@ -20,7 +24,7 @@ The Sewing Creations Workshop is an engaging and hands-on project that aims to i
 
 2.Azure Storage Accounts.
 
-3.Container
+3.Containers
 
 # Web Technologies used :
 

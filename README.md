@@ -2,9 +2,9 @@
 
 This is my FRT Internship project....
 
-azure link:https://kind-rock-0f244c810.3.azurestaticapps.net
+azure link:https://frtprojectstorage.z19.web.core.windows.net/
 
-Future Ready talent intership project youtube video link: https://youtu.be/6kPhffv26vs 
+Future Ready talent intership project youtube video link: 
 
 # Project Statement:
 
